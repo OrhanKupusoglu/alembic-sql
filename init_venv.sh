@@ -18,7 +18,7 @@ then
     echo "usage: ./$SCRIPT_NAME"
     echo "       + if missing, creates a virtual environment '$VIRTUAL_ENV'."
     echo "       + activates the virtual environment"
-    echo "       + installs all the requirements either for PostgreSQL or MySQL"
+    echo "       + installs all the requirements for PostgreSQL"
     echo "       + if missing, creates a Python path configuration file"
     echo "       + deactivates the virtual environment"
     echo

@@ -70,7 +70,7 @@ $ ./init_venv.sh help
 usage: ./init_venv.sh
        + if missing, creates a virtual environment '.venv'.
        + activates the virtual environment
-       + installs all the requirements either for PostgreSQL or MySQL
+       + installs all the requirements for PostgreSQL
        + if missing, creates a Python path configuration file
        + deactivates the virtual environment
 
